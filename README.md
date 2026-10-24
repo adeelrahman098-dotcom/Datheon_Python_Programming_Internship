@@ -23,9 +23,16 @@ discover a hidden word within six incorrect guesses, featuring dynamic ASCII art
 
 **Folder:** `Task-1-Hangman-Game/`
 
-### Task 2
-- **Status:** Not started
-- **Folder:** `Task-2/`
+### Task 2: Stock Portfolio Performance Tracker
+- **Status:** Completed
+- **Language:** Python 3
+- **Type:** Console application & CSV logger
+- **Concepts:** Dictionaries, `csv` module, File I/O, `pathlib`,
+  data aggregation, financial calculations, and formatted console tables.
+
+An investment portfolio tracking utility that allows users to enter stock ticker symbols, buy prices, and share quantities, computes total portfolio value and percentage gain/loss per holding, and automatically logs the transaction summary to an external CSV file.
+
+**Folder:** `Task-2/`
 
 ### Task 3
 - **Status:** Not started
@@ -41,15 +48,22 @@ discover a hidden word within six incorrect guesses, featuring dynamic ASCII art
 - Visual Studio Code
 - Git and GitHub
 
-## How to Run Task 1
+## How to Run the Tasks
 
+### Task 1: Hangman Game
 1. Install Python 3.
-2. Open the Task 1 folder in your terminal.
+2. Open the Task 1 folder (`Task-1-Hangman-Game/`) in your terminal.
 3. Run:
 
     `python hangman.py`
 
-On Windows, you can also use `py hangman.py`.
+### Task 2: Stock Portfolio Tracker
+1. Open the Task 2 folder (`Task-2/`) in your terminal.
+2. Run:
+
+    `python portfolio.py`
+
+On Windows, you can also use `py hangman.py` or `py portfolio.py`.
 
 ## Author
 

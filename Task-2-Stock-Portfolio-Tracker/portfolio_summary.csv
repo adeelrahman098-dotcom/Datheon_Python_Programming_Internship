@@ -1,0 +1,3 @@
+Ticker,Company,Sector,Shares,Buy_Price,Current_Price,Invested_Capital,Market_Value,Profit_Loss,Gain_Loss_Pct,Timestamp
+AMZN,Amazon,Consumer Discretionary,34.0,200.0,205.1,6800.0,6973.4,173.4,2.55,2026-10-24 18:27:29
+TOTAL,PORTFOLIO SUMMARY,,,,,6800.0,6973.4,173.4,2.55,2026-10-24 18:27:29
