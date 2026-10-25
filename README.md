@@ -34,9 +34,16 @@ An investment portfolio tracking utility that allows users to enter stock ticker
 
 **Folder:** `Task-2/`
 
-### Task 3
-- **Status:** Not started
-- **Folder:** `Task-3/`
+### Task 3: Automated File Organizer & Cleanup Utility
+- **Status:** Completed
+- **Language:** Python 3
+- **Type:** Desktop automation script
+- **Concepts:** `os.scandir()`, `shutil.move()`, `pathlib`, dictionary mapping,
+  collision handling, and `try-except` exception handling (`PermissionError`, `FileExistsError`).
+
+An autonomous desktop automation utility that organizes cluttered directories by inspecting file extensions, dynamically creating category subfolders (`/Documents`, `/Images`, `/Videos`, `/Archives`, `/Code`, `/Audio`, `/Others`), and safely relocating files while resolving naming collisions.
+
+**Folder:** `Task-3/`
 
 ### Task 4
 - **Status:** Not started
@@ -63,7 +70,13 @@ An investment portfolio tracking utility that allows users to enter stock ticker
 
     `python portfolio.py`
 
-On Windows, you can also use `py hangman.py` or `py portfolio.py`.
+### Task 3: Automated File Organizer
+1. Open the Task 3 folder (`Task-3/`) in your terminal.
+2. Run:
+
+    `python organizer.py`
+
+On Windows, you can also use `py hangman.py`, `py portfolio.py`, or `py organizer.py`.
 
 ## Author
 
