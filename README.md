@@ -45,9 +45,16 @@ An autonomous desktop automation utility that organizes cluttered directories by
 
 **Folder:** `Task-3/`
 
-### Task 4
-- **Status:** Not started
-- **Folder:** `Task-4/`
+### Task 4: Rule-Based Interactive Terminal Assistant / Chatbot
+- **Status:** Completed
+- **Language:** Python 3
+- **Type:** Interactive CLI chatbot
+- **Concepts:** Regular expressions (`re`), `json` module, text normalization,
+  multi-intent recognition, conversational state management, and fallback handling.
+
+A rule-based customer support and internship FAQ assistant that parses user input using keywords and regular expressions, handles queries regarding business hours, project submissions, and certificates from an external JSON dataset, and manages conversational state transitions with graceful fallbacks and clean exit commands (`bye`, `exit`, `quit`).
+
+**Folder:** `Task-4/`
 
 ## Technologies Used
 
@@ -76,7 +83,13 @@ An autonomous desktop automation utility that organizes cluttered directories by
 
     `python organizer.py`
 
-On Windows, you can also use `py hangman.py`, `py portfolio.py`, or `py organizer.py`.
+### Task 4: Rule-Based Interactive Chatbot
+1. Open the Task 4 folder (`Task-4/`) in your terminal.
+2. Run:
+
+    `python chatbot.py`
+
+On Windows, you can also use `py hangman.py`, `py portfolio.py`, `py organizer.py`, or `py chatbot.py`.
 
 ## Author
 
